@@ -5,3 +5,5 @@ numpy
 pandas
 matplotlib
 flask
+django
+math
