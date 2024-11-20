@@ -6,6 +6,3 @@ pandas
 matplotlib
 flask
 django
-math
-string
-random
